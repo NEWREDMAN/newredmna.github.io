@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: 嘉美技术株式会社
 ---
 
