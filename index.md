@@ -1,5 +1,4 @@
 ---
----
 layout: splash
 title: 嘉美技术株式会社
 subtitle: 专注技术服务 · 深耕日本市场
@@ -8,12 +7,6 @@ header:
   overlay_color: "#ffffff"
   overlay_filter: "0.9"
 actions:
-  - label: "了解我们的业务"
-    url: "/cn/business/"
-  - label: "联系我们"
-    url: "/cn/contact/"
----
-
 ---
 欢迎访问嘉美技術株式会社
 Welcome to JIAMEI Technology
