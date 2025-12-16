@@ -9,11 +9,24 @@ header:
   overlay_filter: "0.9"
 ---
 
-<img src="/assets/images/logo.png"
-     alt="嘉美技术株式会社 LOGO"
-     style="height:80px;">
+<div style="
+  display:flex;
+  align-items:center;
+  gap:16px;
+  margin-bottom:1.6em;
+">
 
-</div>
+  <img src="/assets/images/logo.png"
+       alt="嘉美技术株式会社 LOGO"
+       style="height:64px;">
+
+  <div>
+    <div style="font-size:1.4em;font-weight:600;line-height:1.2;">
+      嘉美技術株式会社
+    </div>
+    <div style="font-size:0.9em;color:#666;">
+      JIAMEI Technology
+    </div>
 
 欢迎访问嘉美技術株式会社  
 Welcome to JIAMEI Technology
