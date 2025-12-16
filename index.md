@@ -7,9 +7,6 @@ header:
   overlay_filter: "0.9"
 ---
 
-日中両国の企業様向けに、技術サポートおよびシステムソリューションを提供しております
-
-
 欢迎访问嘉美技術株式会社  
 Welcome to JIAMEI Technology
 
