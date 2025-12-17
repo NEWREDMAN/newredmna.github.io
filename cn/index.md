@@ -2,6 +2,10 @@
 layout: single
 title: 嘉美技术株式会社
 nav: cn
+header:
+  overlay: false
+  show_overlay_excerpt: false
+  nav: true
 ---
 
 ## 技术驱动 · 服务中日企业的数字化合作伙伴
