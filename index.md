@@ -2,11 +2,12 @@
 layout: splash
 title: 嘉美技術株式会社
 excerpt: |
-  面向中日企业，提供技术支持、系统解决方案及本地化服务
+  面向中日企业，提供技术支持、系统解决方案及本地化服务；  
   日中両国の企業様向けに、技術サポートおよびシステムソリューションを提供しております
 
 header:
-  overlay_color: "#f5f8fc"
+  overlay_image: /assets/images/hero-bg.jpg
+  overlay_color: "#2C7BE5"
   overlay_filter: "0.85"
 ---
 
