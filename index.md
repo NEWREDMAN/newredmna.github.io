@@ -7,8 +7,14 @@ excerpt: |
 
 ---
 
+
 欢迎访问嘉美技術株式会社  
 Welcome to JIAMEI Technology
 
-- [中文官网](/cn/)
-- [日本語サイト](/jp/)
+<div class="btn-group">
+
+<a href="/cn/" class="btn btn--primary">中文官网</a>
+<a href="/jp/" class="btn btn--primary">日本語サイト</a>
+
+</div>
+
