@@ -24,7 +24,7 @@ header:
 
 ## 我们的核心服务
 
-<div class="feature__wrapper">
+<div class="feature__wrapper feature__wrapper--half">
 
 <div class="feature__item">
 <img src="/assets/images/service-it.jpg" alt="IT 咨询与解决方案">
