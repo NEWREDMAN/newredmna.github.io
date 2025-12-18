@@ -23,8 +23,10 @@ header:
 ---
 
 ## 我们的核心服务
+
 <div style="line-height:1.6;">
 
+<!-- 第一行 -->
 <div class="feature__wrapper">
 
   <div class="feature__item">
@@ -47,6 +49,33 @@ header:
       注重系统结构、安全性与可维护性。
     </p>
     <p><a href="/cn/services-web/" class="btn btn--primary btn--small">了解详情</a></p>
+  </div>
+
+</div>
+
+<!-- 第二行 -->
+<div class="feature__wrapper">
+
+  <div class="feature__item">
+    <img src="/assets/images/service-kc.jpg"
+         alt="日本商务考察与技术陪同"
+         style="width:100%; height:180px; object-fit:cover;">
+    <h3>日本商务考察与技术陪同</h3>
+    <p style="min-height:3.5em;">
+      为企业提供赴日商务考察与技术沟通支持。
+    </p>
+    <p><a href="/cn/services-kc/" class="btn btn--primary btn--small">了解详情</a></p>
+  </div>
+
+  <div class="feature__item">
+    <img src="/assets/images/service-sp.jpg"
+         alt="日本优品选品与技术支持"
+         style="width:100%; height:180px; object-fit:cover;">
+    <h3>日本优品选品与技术支持</h3>
+    <p style="min-height:3.5em;">
+      提供选品视角与长期技术合作支持。
+    </p>
+    <p><a href="/cn/services-sp/" class="btn btn--primary btn--small">了解详情</a></p>
   </div>
 
 </div>
