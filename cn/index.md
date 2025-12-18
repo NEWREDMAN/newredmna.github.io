@@ -1,6 +1,5 @@
 ---
 layout: home
-title: 嘉美技术株式会社
 nav: cn
 classes: wide
 ---
