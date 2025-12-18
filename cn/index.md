@@ -27,47 +27,6 @@ classes: wide
 <div class="feature__wrapper">
 
 <div class="feature__item">
-<h3>IT 咨询与解决方案</h3>
-<p>
-围绕企业业务目标，提供系统架构设计、技术选型与实施规划，  
-确保系统具备 <strong>稳定性、扩展性与长期维护能力</strong>。
-</p>
-<p><a href="/cn/services-it/" class="btn btn--primary btn--small">了解详情</a></p>
-</div>
-
-<div class="feature__item">
-<h3>系统 / 企业级网站建设</h3>
-<p>
-不仅是展示页面，更注重系统结构、安全性与可维护性，  
-适合企业长期对外使用与业务扩展。
-</p>
-<p><a href="/cn/services-web/" class="btn btn--primary btn--small">了解详情</a></p>
-</div>
-
-<div class="feature__item">
-<h3>日本商务考察与技术陪同</h3>
-<p>
-为中国企业提供赴日商务考察、技术沟通及本地协作支持，  
-降低跨文化与技术沟通成本。
-</p>
-<p><a href="/cn/services-kc/" class="btn btn--primary btn--small">了解详情</a></p>
-</div>
-
-<div class="feature__item">
-<h3>日本优品选品与技术支持</h3>
-<p>
-围绕日本优质产品，引入专业选品视角，  
-并提供技术、系统及长期合作支持。
-</p>
-<p><a href="/cn/services-sp/" class="btn btn--primary btn--small">了解详情</a></p>
-</div>
-
-</div>
-
----
-<div class="feature__wrapper">
-
-<div class="feature__item">
 <img src="/assets/images/service-it.jpg" alt="IT 咨询与解决方案" style="margin-bottom: 1em;">
 <h3>IT 咨询与解决方案</h3>
 <p>
@@ -108,6 +67,8 @@ classes: wide
 </div>
 
 </div>
+
+---
 
 ## 适合与我们合作的企业
 
