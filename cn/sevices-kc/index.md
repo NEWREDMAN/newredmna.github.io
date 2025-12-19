@@ -2,6 +2,7 @@
 layout: single
 title: 日本商务考察与技术陪同
 nav: main
+permalink: /cn/services-kc/
 classes: wide
 ---
 
@@ -38,4 +39,5 @@ classes: wide
 ---
 
 如需了解服务细节，欢迎联系我们。
+
 
