@@ -32,7 +32,8 @@ header:
   <div class="feature__item">
     <img src="/assets/images/service-it.jpg"
          alt="IT 咨询与解决方案"
-         style="width:100%; height:180px; object-fit:cover;"class="service-img">
+         style="width:100%; height:180px; object-fit:cover;"
+         class="service-img">
     <h3>IT 咨询与解决方案</h3>
     <p style="min-height:3.5em;">
       围绕企业业务目标，提供系统架构设计与实施规划。
@@ -43,7 +44,8 @@ header:
   <div class="feature__item">
     <img src="/assets/images/service-web.jpg"
          alt="系统 / 企业级网站建设"
-         style="width:100%; height:180px; object-fit:cover;"class="service-img">
+         style="width:100%; height:180px; object-fit:cover;"
+         class="service-img">
     <h3>系统 / 企业级网站建设</h3>
     <p style="min-height:3.5em;">
       注重系统结构、安全性与可维护性。
@@ -59,7 +61,8 @@ header:
   <div class="feature__item">
     <img src="/assets/images/service-kc.jpg"
          alt="日本商务考察与技术陪同"
-         style="width:100%; height:180px; object-fit:cover;"class="service-img">
+         style="width:100%; height:180px; object-fit:cover;"
+         class="service-img">
     <h3>日本商务考察与技术陪同</h3>
     <p style="min-height:3.5em;">
       为企业提供赴日商务考察与技术沟通支持。
@@ -70,7 +73,8 @@ header:
   <div class="feature__item">
     <img src="/assets/images/service-sp.jpg"
          alt="日本优品选品与技术支持"
-         style="width:100%; height:180px; object-fit:cover;"class="service-img">
+         style="width:100%; height:180px; object-fit:cover;"
+         class="service-img">
     <h3>日本优品选品与技术支持</h3>
     <p style="min-height:3.5em;">
       提供选品视角与长期技术合作支持。
@@ -97,11 +101,6 @@ header:
 如需进一步了解我们的技术能力或合作方式，  
 欢迎通过联系我们，与我们进行沟通与交流。
 
-<style>
-@media (max-width: 768px) {
-  .service-img {
-    height: 140px;
-  }
-}
-</style>
-
+<img src="/assets/images/service-it.jpg"
+     alt="IT 咨询与解决方案"
+     class="service-img">
