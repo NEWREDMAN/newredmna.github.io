@@ -2,6 +2,7 @@
 layout: single
 title: IT 咨询与解决方案
 nav: main
+permalink: /cn/services-it/
 classes: wide
 ---
 
@@ -38,4 +39,5 @@ classes: wide
 ---
 
 如需了解更多，请通过 **联系我们** 与我们取得联系。
+
 
