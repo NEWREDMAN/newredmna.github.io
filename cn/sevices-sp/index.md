@@ -2,6 +2,7 @@
 layout: single
 title: 日本优品选品与技术支持
 nav: cn
+permalink: /cn/services-sp/
 classes: wide
 ---
 
@@ -38,3 +39,4 @@ classes: wide
 ---
 
 欢迎联系我们，进一步沟通合作可能性。
+
