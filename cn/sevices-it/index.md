@@ -1,4 +1,3 @@
-```md
 ---
 layout: single
 title: IT+AI 赋能企业
@@ -92,4 +91,5 @@ classes: wide
   </a>
 </div>
 ```
+
 
