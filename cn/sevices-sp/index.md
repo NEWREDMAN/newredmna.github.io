@@ -37,7 +37,7 @@ classes: wide
       muted
       loop
       playsinline
-      style="width:100%; border-radius:14px; box-shadow:0 12px 30px rgba(0,0,0,.08);">
+      style="width:80%; border-radius:14px; box-shadow:0 12px 30px rgba(0,0,0,.08);">
     </video>
   </div>
 
@@ -120,3 +120,4 @@ classes: wide
   </a>
 </div>
 ```
+
