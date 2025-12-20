@@ -31,10 +31,18 @@ classes: wide
   </div>
 
   <div style="flex: 1; min-width: 260px;">
-    <img src="/assets/images/japankc.mp4" alt="日本商务考察支持"
-         style="border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,.08);">
+   <video
+  src="/assets/videos/japan-business.mp4"
+  autoplay
+  muted
+  loop
+  playsinline
+  style="width:100%; border-radius:14px; box-shadow:0 12px 30px rgba(0,0,0,.08);">
+</video>
+
   </div>
-  
+
+</div>
 
 ---
 
@@ -95,5 +103,3 @@ classes: wide
   </a>
 </div>
 ```
-
-
