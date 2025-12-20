@@ -1,12 +1,11 @@
 ---
 layout: single
-title: IT+AI 赋能企业
 permalink: /cn/services-it/
 classes: wide
 ---
 
 <div style="padding: 2.5em 0; text-align: center;">
-  <h1>IT+AI 赋能企业</h1>
+  <h1>IT+AI 赋能企业发展</h1>
   <p style="font-size: 1.1em; color: #666;">
     为中小企业提供稳定、可持续、可落地的数字化技术支持
   </p>
@@ -87,10 +86,11 @@ classes: wide
 
 <div style="text-align:center; margin:3em 0;">
   <a href="/cn/contact/" class="btn btn--primary btn--large">
-    咨询 IT 咨询服务
+    咨询 IT 服务入口
   </a>
 </div>
 ```
+
 
 
 
