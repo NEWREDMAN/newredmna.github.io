@@ -1,43 +1,94 @@
+```md
 ---
 layout: single
 title: IT 咨询与解决方案
-nav: main
 permalink: /cn/services-it/
 classes: wide
 ---
 
-## 面向企业长期发展的 IT 咨询服务
-
-嘉美技术株式会社为中日企业提供 **以业务目标为导向的 IT 咨询与解决方案设计**，  
-帮助企业构建 **稳定、可扩展、可持续运营的系统架构**。
-
----
-
-## 我们提供的服务内容
-
-- 企业 IT 架构规划与系统整体设计  
-- 技术选型与系统方案评估  
-- 现有系统问题诊断与优化建议  
-- 项目实施阶段的技术支持与陪同
+<div style="padding: 2.5em 0; text-align: center;">
+  <h1>IT 咨询与解决方案</h1>
+  <p style="font-size: 1.1em; color: #666;">
+    为中小企业提供稳定、可持续、可落地的数字化技术支持
+  </p>
+</div>
 
 ---
 
-## 服务特点
+<div style="display: flex; gap: 2em; flex-wrap: wrap; align-items: center;">
 
-- 不依赖单一厂商，保持技术中立  
-- 重视系统长期运行与维护成本  
-- 兼顾日本技术规范与中国企业实际情况  
+  <div style="flex: 1; min-width: 260px;">
+    <h2>我们能为您做什么</h2>
+    <p>
+      嘉美技术专注于为中小企业提供实用型 IT 咨询服务，
+      帮助企业在有限预算下，建立稳定、高效、可持续发展的技术体系。
+    </p>
+    <ul>
+      <li>IT 架构与系统规划</li>
+      <li>企业系统选型与导入支持</li>
+      <li>现有系统优化与成本控制</li>
+      <li>长期技术顾问与运维建议</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 260px;">
+    <img src="/assets/images/services/it.jpg" alt="IT 咨询服务"
+         style="border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,.08);">
+  </div>
+
+</div>
 
 ---
 
-## 适合的客户
+<h2 style="text-align:center;">适合哪些企业</h2>
 
-- 正在进行系统升级或数字化转型的企业  
-- 计划进入日本市场的中国企业  
-- 需要长期技术顾问支持的中小企业  
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); gap:1.5em; margin-top:2em;">
+
+  <div class="notice--primary">
+    <h3>初创与成长型企业</h3>
+    <p>需要在控制成本的同时，快速建立稳定 IT 基础。</p>
+  </div>
+
+  <div class="notice--primary">
+    <h3>传统行业转型企业</h3>
+    <p>希望通过数字化提升效率，但缺乏技术判断能力。</p>
+  </div>
+
+  <div class="notice--primary">
+    <h3>在日中小企业</h3>
+    <p>需要熟悉中日环境的技术与沟通支持。</p>
+  </div>
+
+</div>
 
 ---
 
-如需了解更多，请通过 **联系我们** 与我们取得联系。
+<h2 style="text-align:center;">我们的优势</h2>
 
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); gap:1.5em; margin-top:2em;">
 
+  <div class="notice--info">
+    <h3>重视长期稳定</h3>
+    <p>不是一次性交付，而是作为企业长期技术伙伴。</p>
+  </div>
+
+  <div class="notice--info">
+    <h3>实用优先</h3>
+    <p>拒绝复杂堆砌，专注真正能用、能维护的方案。</p>
+  </div>
+
+  <div class="notice--info">
+    <h3>沟通友好</h3>
+    <p>技术说明清晰，避免企业陷入“听不懂”的困境。</p>
+  </div>
+
+</div>
+
+---
+
+<div style="text-align:center; margin:3em 0;">
+  <a href="/cn/contact/" class="btn btn--primary btn--large">
+    咨询 IT 咨询服务
+  </a>
+</div>
+```
