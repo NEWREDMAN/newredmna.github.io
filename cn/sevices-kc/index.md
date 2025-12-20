@@ -32,7 +32,7 @@ classes: wide
 
   <div style="flex: 1; min-width: 260px;">
    <video
-  src="/assets/videos/japan-business.mp4"
+  src="/assets/images/japankc.mp4"
   autoplay
   muted
   loop
@@ -103,3 +103,4 @@ classes: wide
   </a>
 </div>
 ```
+
