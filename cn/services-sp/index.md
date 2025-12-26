@@ -1,7 +1,16 @@
 ---
-layout: single
+layout: splash
+title: 日本名品优品选购
 permalink: /cn/services-sp/
+nav: main
 classes: wide
+header:
+  overlay_image: /assets/images/cn-hero.jpg
+  overlay_filter: 0.3
+  overlay_color: "#000"
+  actions:
+    - label: "联系我们"
+      url: "/cn/contact/"
 ---
 
 <div style="padding: 2.5em 0; text-align: center;">
@@ -120,4 +129,5 @@ classes: wide
   </a>
 </div>
 ```
+
 
