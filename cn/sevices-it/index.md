@@ -1,6 +1,6 @@
 ---
-layout: single
-permalink: /cn/services-web/
+layout: splash
+permalink: /cn/sevices-it/
 title: IT+AI赋能企业发展
 classes: wide
 header:
@@ -11,6 +11,7 @@ header:
     - label: "产品服务及报价"
       url: "/cn/aiprices/"
 ---
+
 
 <div style="padding: 2.5em 0; text-align: center;">
   <h1>IT+AI 赋能企业发展</h1>
@@ -98,6 +99,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
