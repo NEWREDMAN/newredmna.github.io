@@ -2,6 +2,7 @@
 layout: single
 title: 日本商务考察支持
 permalink: /cn/services-kc/
+nav: main
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
@@ -109,6 +110,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
