@@ -36,11 +36,12 @@ header:
       <li>响应式设计（PC / 手机）</li>
       <li>中文或日文单语版本</li>
       <li>基础 SEO 结构</li>
-      <li>在线咨询模块嵌入</li>
+      <li>在线咨询模块嵌入</li> 
+      <li>制作周期30天</li>
     </ul>
 
     <p style="font-size:1.4em; font-weight:600; margin-top:1.2em;">
-      15 万～30 万日元
+      20 万～30 万日元
     </p>
   </div>
 
@@ -58,6 +59,7 @@ header:
       <li>定制页面布局与风格</li>
       <li>SEO 基础优化</li>
       <li>在线咨询与自动欢迎语配置</li>
+      <li>制作周期45天</li>
     </ul>
 
     <p style="font-size:1.5em; font-weight:600; margin-top:1.2em;">
@@ -76,6 +78,7 @@ header:
       <li>表单 / 数据收集功能</li>
       <li>AI 咨询或客服模块</li>
       <li>后期扩展与技术支持</li>
+      <li>制作周期未能限定</li>
     </ul>
 
     <p style="font-size:1.4em; font-weight:600; margin-top:1.2em;">
