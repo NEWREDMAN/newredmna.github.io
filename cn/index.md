@@ -143,7 +143,6 @@ header:
   gap:2em;
   margin-top:3em;
 ">
-
   <!-- 案例 1 -->
   <div style="background:#fff; padding:2em; border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,.08);">
     <h3>制造业企业 · 日本市场考察</h3>
@@ -197,14 +196,11 @@ header:
 
 </div>
 
-
 ## 联系我们
-
 - 如需进一步了解我们的技术能力或合作方式，欢迎通过联系我们，与我们进行沟通与交流。
 - 联系电话：13807391160 （中国区域客户）  070-8441-3996（日本区域客户） 刘
 - Email:68600669@qq.com
 - 公司地址：福冈市中央区平尾一丁目
-
 
 <style>
 .service-img {
