@@ -1,17 +1,17 @@
 ---
 layout: splash
-title: 网站制作服务与报价
+title:网站制作服务与报价
 permalink: /cn/webprices/
 nav: main
 classes: wide
 header:
-overlay_image: /assets/images/cn-hero.jpg
-overlay_filter: 0.3
-overlay_color: "#000"
-actions:
-- label: "联系我们"
-url: "/cn/contact/"
--------------------
+  overlay_image: /assets/images/cn-hero.jpg
+  overlay_filter: 0.3
+  overlay_color: "#000"
+  actions:
+    - label: "联系我们"
+      url: "/cn/contact"
+---
 
 ## 网站制作服务与参考报价
 
